@@ -1,6 +1,6 @@
 # PH Risk Intelligence Research
 
-Koleen Baes Paunon | [LinkedIn](https://www.linkedin.com/in/koleenbp/) | [GitHub](https://github.com/KBPsystem777)
+Koleen Baes Paunon | https://koleenbp.com | [LinkedIn](https://www.linkedin.com/in/koleenbp/) | [GitHub](https://github.com/KBPsystem777)
 
 ## Reports
 
