@@ -4,4 +4,6 @@ Koleen Baes Paunon | [https://koleenbp.com](https://koleenbp.com) | [LinkedIn](h
 
 ## Reports
 
+- [2016-2026: Decade of Strategic Evolution](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/decade-of-strategic-evolution/)
+
 - [A decade of counterterrorism in the Philippines: 2016-2026](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/a-decade-of-counter-terrorism/)
