@@ -1,12 +1,10 @@
 # A Decade of Counterterrorism in the Philippines (2016–2026)
 
-**Koleen Baes Paunon**
+_Koleen Baes Paunon | San Juan City, Philippines | February 12, 2026_
 
-_San Juan City, Philippines_
 
-February 12, 2026
 
----
+
 
 
 **Lessons, Structural Gaps, and the Future of Predictive Intelligence**
