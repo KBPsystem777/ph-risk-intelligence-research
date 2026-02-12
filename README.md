@@ -4,4 +4,4 @@ Koleen Baes Paunon | [https://koleenbp.com](https://koleenbp.com) | [LinkedIn](h
 
 ## Reports
 
-- [A decade of counterterrorism in the Philippines: 2016-2026](https://kbpsystem777.github.io/reports/a-decade-of-counter-terrorism/)
+- [A decade of counterterrorism in the Philippines: 2016-2026](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/a-decade-of-counter-terrorism/)
