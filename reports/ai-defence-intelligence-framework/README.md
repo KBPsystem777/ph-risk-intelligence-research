@@ -1,5 +1,4 @@
-# ARTIFICIAL INTELLIGENCE IN DEFENSE AND INTELLIGENCE:
-## A Framework for Philippine Defense Agencies
+# AI Defense Framework for Philippine Security & Defense Agencies
 
 ### Research Report on Global AI Implementation in Counterterrorism, Threat Detection, and National Security Operations
 
