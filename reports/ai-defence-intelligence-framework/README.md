@@ -2,10 +2,6 @@
 
 ### Research Report on Global AI Implementation in Counterterrorism, Threat Detection, and National Security Operations
 
-**Prepared by:**  
-**Koleen Baes Paunon**  
-Risk Intelligence Engineer  
-BPxAI
 
 February 13, 2026
 
@@ -476,3 +472,10 @@ The time to act is now. As we approach 2028—the target year for both DOST's na
 ---
 
 **END OF REPORT**
+
+
+
+
+**Koleen Baes Paunon**  
+Counter-Terrorism | 
+BPxAI
